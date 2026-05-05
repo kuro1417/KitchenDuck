@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1804a6f888cea814bbe949ac58618037, type: 3}
+  m_Name: MegaBurger
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 1ef22181a1687d94c97a3f77e667f768, type: 2}
+  - {fileID: 11400000, guid: 6db38c142462c564a917eddb327bcab4, type: 2}
+  - {fileID: 11400000, guid: bef85e8c3fa2bd74e9e66306dbcd8884, type: 2}
+  - {fileID: 11400000, guid: 25d2d2bdedc69084cbe6d6c890329dd4, type: 2}
+  - {fileID: 11400000, guid: 582ad09f8e0386143a1c413ff23eda50, type: 2}
+  recipeName: MegaBurger

@@ -1,0 +1,123 @@
+# =========================
+
+# Unity generated folders
+
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# =========================
+
+# MemoryCaptures
+
+# =========================
+
+MemoryCaptures/
+
+# =========================
+
+# Asset meta data
+
+# =========================
+
+# (GIỮ lại *.meta để tránh mất reference)
+
+!*.meta
+
+# =========================
+
+# Visual Studio / Rider
+
+# =========================
+
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Rider
+
+.idea/
+
+# =========================
+
+# OS generated
+
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+
+# Unity Cloud / Addressables cache
+
+# =========================
+
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.hash
+
+# =========================
+
+# Build results
+
+# =========================
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.ipa
+
+# =========================
+
+# Crash reports
+
+# =========================
+
+sysinfo.txt
+
+# =========================
+
+# JetBrains Rider plugin
+
+# =========================
+
+Assets/Plugins/Editor/JetBrains*
+
+# =========================
+
+# Generated folders (Unity 2020+)
+
+# =========================
+
+/[Rr]ecordings/
+
+# =========================
+
+# Optional: ignore large binary assets (tuỳ bạn)
+
+# =========================
+
+# *.psd
+
+# *.fbx
+
+# *.png
+
+# *.mp4
